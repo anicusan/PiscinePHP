@@ -1,0 +1,140 @@
+.general {
+	width: 100%;
+	height: 85%;
+	margin: 0 auto;
+}
+body
+{
+	background-color: #505050;
+}
+.box_top {
+	width: 80%;
+	height: 18%;
+	background-color: #909090;
+	border-radius: 10px 10px 10px 10px;
+	margin: 20px auto;
+	box-shadow: 5px 5px 5px 5px #212121;
+	clear: both;
+}
+.middle {
+	width: 1366;
+	height: 582;
+	margin: 20px auto;
+	clear: both;
+}
+.box_left {
+	float:left;
+	width: 10%;
+	height: 77%;
+	margin-left: 10%;
+	background-color: #909090;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 5px 5px 5px 5px #212121;
+	clear: both;
+}
+.box_middle {
+	float:left;
+	width: 55%;
+	height: 100%;
+	background-color: #909090;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 5px 5px 5px 5px #212121;
+	margin: 0px 2%;
+}
+.box_right {
+	float:left;
+	width: 10%;
+	height: 77%;
+	background-color: #909090;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 5px 5px 5px 5px #212121;
+}
+.day_of_the_42
+{
+	float: left;
+	width: 40%;
+	height: 70%;
+	margin: 10px;
+}
+.reload
+{
+	float: right;
+	width: 2%;
+	height: 15%;
+	margin: 10px;
+}
+.close
+{
+	clear: right;
+	float: right;
+	width: 2%;
+	height: 15%;
+	margin-right: 10px;
+	margin-top: 5%;
+}
+.loupe
+{
+	float: right;
+	width: 20%;
+	height: 100%;
+	margin-top: -20px;
+	margin-right: 10px;
+}
+.imgs_left_box {
+	float: left;
+	width: 50%;
+	height: 16%;
+	margin-left: 25%;
+	margin-top: 9%;
+}
+.outline {
+	border: 5px solid red;
+}
+.cluster {
+	width: 97%;
+	height: 97%;
+	margin-left: 8px;
+	margin-top: 8px;
+}
+.book {
+	float: left;
+	width: 50%;
+	height: 16%;
+	margin-left: 25%;
+	margin-top: 9%;
+}
+.towel {
+	float: left;
+	width: 40%;
+	height: 10%;
+	margin-left: 27%;
+	margin-top: 11%;
+}
+.brick_repeat {
+	float: left;
+	width: 87%;
+	height: 17%;
+	margin-left: 7%;
+	margin-top: 7%;
+	background-image: url("./resources/brick.jpg");
+}
+.chat {
+	float: left;
+	width: 37%;
+	height: 20%;
+	background-color: #88FF89;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 5px 5px 5px 5px #212121;
+	margin-left: 4%;
+	margin-top: -8%;
+	margin-bottom: 5%;
+}
+p {
+	margin: 10px;
+}
+.ordi {
+	text-shadow: 5px 5px 3px #BA8047;
+}
+.line {
+	 line-height: 4px;
+}
